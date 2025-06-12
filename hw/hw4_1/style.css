@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: #D9D9D9;
+    height: 22vh;}
+footer{background-color: #D9D9D9;
+    height: 22vh;}
+aside{
+    background-color: #C0BDBD;
+    height: 56vh;
+    width: 27vw;}
+main{
+    display: flex;
+}
+main div{
+    width: 46vw;
+    height: 56vh;}
+.box3{
+    background-color: #827878;
+    height: 28vh;
+    width: 46vw;}
+.box3_1{
+    background-color: #B7ADAD;
+    height: 28vh;
+    width: 46vw;}
